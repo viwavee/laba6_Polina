@@ -22,7 +22,7 @@ laba6/
 │   ├── composer.json           
 │   ├── vendor/                 
 │   │
-│   └── App/
+│   └──App/
 │       ├── RedisExample.php    
 │       ├── ElasticExample.php  
 │       ├── ClickhouseExample.php
